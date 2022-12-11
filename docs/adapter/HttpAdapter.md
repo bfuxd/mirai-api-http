@@ -416,7 +416,7 @@ adapterSettings:
 此接口获取 session 绑定 bot 的详细资料
 
 ```
-[GET] /botProfile
+[GET] /botProfile?sessionKey=YourSessionKey
 ```
 
 **本接口为[GET]请求, 参数格式为url参数**
